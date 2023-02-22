@@ -15,7 +15,7 @@ Compiling instruction
 gcc -o test test.c
 
 A sample test run for iterative mode
-./shell 
+[./shell] 
 A sample test run for bash mode
-./shell data.txt
+[./shell data.txt]
 
