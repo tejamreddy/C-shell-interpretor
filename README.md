@@ -20,7 +20,7 @@ Program description:
 
 Compiling instruction:
 
-gcc -o test test.c
+gcc -o shell shell.c
 
 A sample test run for iterative mode:
 
