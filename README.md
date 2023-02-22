@@ -24,9 +24,9 @@ gcc -o shell shell.c
 
 A sample test run for iterative mode:
 
-[./shell] 
+./shell
 
 A sample test run for bash mode:
 
-[./shell data.txt]
+./shell data.txt
 
